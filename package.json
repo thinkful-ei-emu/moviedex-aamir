@@ -12,6 +12,9 @@
     "url": "git+https://github.com/thinkful-ei-emu/moviedex-aamir.git"
   },
   "keywords": [],
+  "engines": {
+       "node": "12.4.0"
+    },
   "author": "",
   "license": "ISC",
   "bugs": {
